@@ -4,27 +4,27 @@ criaCartao(
     'O phyton é uma linguagem de programação'
 )
 criaCartao(
-    'Gordura'
-    'Porque o Nathan é gordo?'
-    'Porque ele come muito igual baleia'
+    'rosa'
+    'Por que a manu gosta de rosa?'
+    'Porque ela é uma princesa'
 )
 criaCartao(
-    'Leo noob'
-    'Porque o Leo é noob?'
-    'Porque ele odeia preto'
+    'gloss'
+    'Por que a manu ama gloss?'
+    'Porque ela ama ser bonita'
 )
 criaCartao(
-    'Bernardo Gay'
-    'Porque o Bernardo é Homosexual?'
-    'Porque ele gosta de dar o cu'
+    'glitter'
+    'Por que a manu ama glitter?'
+    'Porque ela ama brilhar'
 )
 criaCartao(
-    'Rafaeul'
-    'O Rafaeul é forçado?'
-    'Sim! Ele é homosexual forçado'
+    'eu'
+    'a manu é bonita?'
+    'Sim! Ela é maravilhosa!'
 )
 criaCartao(
     'Atentado'
-    'Dia 11/09/2001 as 9:14 foi um dia que deveria ter feriado?'
-    'Sim!!! O melhor dia na opnião de todos'
+    'Dia 08/08/2008 as 10:10 foi um dia que deveria ter feriado?'
+    'Sim!!! O melhor dia da vida dos meus pais'
 )
