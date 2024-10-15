@@ -28,3 +28,8 @@ criaCartao(
     'Dia 08/08/2008 as 10:10 foi um dia que deveria ter feriado?'
     'Sim!!! O melhor dia da vida dos meus pais'
 )
+criaCartao( 
+    'cabelo
+    'a mau cortou o cabelo?'
+    'sim, porque ela tem merda na cabeça'
+)
