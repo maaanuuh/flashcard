@@ -1,35 +1,35 @@
 criaCartao(
-    'Programação 2.0'
-    'O que é phyton?'
+    'Phyton',
+    'O que é phyton?',
     'O phyton é uma linguagem de programação'
 )
 criaCartao(
-    'rosa'
-    'Por que a manu gosta de rosa?'
-    'Porque ela é uma princesa'
+    'Site',
+    'Html é usado para que?',
+    'Criação de Sites'
 )
 criaCartao(
-    'gloss'
-    'Por que a manu ama gloss?'
-    'Porque ela ama ser bonita'
+    'PHP',
+    'O que é PHP?',
+    'O PHP é uma linguagem de programação'
 )
 criaCartao(
-    'glitter'
-    'Por que a manu ama glitter?'
-    'Porque ela ama brilhar'
+    'C#',
+    'C# é uma linguagem de programação, multiparadigma,?',
+    'O phyton é uma linguagem de programação'
 )
 criaCartao(
-    'eu'
-    'a manu é bonita?'
-    'Sim! Ela é maravilhosa!'
+    'multiparadigma',
+    'O que é multiparadigma?',
+    'a linguagem multiparadigma nada mais é a programação que suporta vários paradigmas de programação'
 )
 criaCartao(
-    'Atentado'
-    'Dia 08/08/2008 as 10:10 foi um dia que deveria ter feriado?'
-    'Sim!!! O melhor dia da vida dos meus pais'
+    'C++',
+    'O que é C++?',
+    'é uma linguagem de programação compilada multi-paradigma e de uso geral'
 )
-criaCartao( 
-    'cabelo
-    'a mau cortou o cabelo?'
-    'sim, porque ela tem merda na cabeça'
+criaCartao(
+    'Assembly',
+    'O que é linguagem assembly?',
+    ' é uma linguagem de programação de baixo nível'
 )
